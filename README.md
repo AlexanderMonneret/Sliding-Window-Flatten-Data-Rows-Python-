@@ -5,8 +5,7 @@
 - flatten the 2D window into 1D vector
 ## Why?
 - to make the data-set more compatible with Scikit-Learn and Keras
-- apply feature normalization
-- apply SMOTE techniques
+- apply feature normalization and SMOTE techniques
 ## how?
 - make sure your data-set has the similar shape as the example
 - run the jupyter code on your data-set
