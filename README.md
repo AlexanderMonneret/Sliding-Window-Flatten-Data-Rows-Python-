@@ -1,4 +1,5 @@
-# Machine Learning Tools: Sliding Window and Flatten Rows For Time Series Data
+# Machine Learning Tools:
+# Sliding Window and Flatten Rows For Time Series Data
 ![alt text](https://github.com/AlexanderMonneret/Sliding-Window-Flatten-Data-Rows-Python-/blob/main/Screenshot_2.png)
 ## What does this code do?
 - apply a sliding window on a DataFrame
