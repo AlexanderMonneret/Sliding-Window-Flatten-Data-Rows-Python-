@@ -10,6 +10,6 @@
 - make sure your data-set has the similar shape as the example
 - run the jupyter code on your data-set
 here is a link to my youtube channle where I explain the code 
-![alt text](https://youtu.be/uK1SXGNxazY)
+https://youtu.be/uK1SXGNxazY
 
 
